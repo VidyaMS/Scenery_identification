@@ -14,6 +14,13 @@ Once the model architecture that gives the maximum accuracy is identified, the h
 
 Conclusion.  
 . Test set accuracy given by 7 layer CNN + Maxpooling model with 25 epochs is @0.85. We get the same accuracy by using transfer learning with VGG16 and 15 epochs.  
-Augmentation techniques such as RandomFlip, RandomRotation and RandomZppm does not increase the test set accuracy beyond 0.85.  
+Augmentation techniques such as RandomFlip, RandomRotation and RandomZppm does not increase the test set accuracy beyond 0.85.
+Best identified image - Forest.  
+Least identified image - Mountain.  
+  
+Future Work. 
+. Reason out how the 'Forest' type image is identified better than the others ? Is it the image quality ? Or less diversity with in the images? 
+. Any effect of changing the filter numbers in the 7 CNN model ??    
+. Can you improve on the augmentation ?  
 
 
