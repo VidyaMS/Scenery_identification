@@ -18,7 +18,7 @@ Augmentation techniques such as RandomFlip, RandomRotation and RandomZppm does n
 Best identified image - Forest.  
 Least identified image - Mountain.  
   
-Future Work. 
+Future Work.   
 . Reason out how the 'Forest' type image is identified better than the others ? Is it the image quality ? Or less diversity with in the images?.   
 . Any effect of changing the filter numbers in the 7 CNN model ??.      
 . Can you improve on the augmentation ?.    
